@@ -1,0 +1,16 @@
+* {
+  /* color: green; */
+  box-sizing: border-box;
+}
+/* .buttoncontainer {
+  position: fixed;
+  bottom: 0px;
+  background-color: whitesmoke;
+} */
+.spinner-border {
+  position: absolute;
+  top: cal;
+  top: calc(50vh - 1rem);
+  width: 4rem;
+  height: 4rem;
+}
